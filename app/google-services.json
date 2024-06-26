@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203046438638",
+    "project_id": "otp1-30060",
+    "storage_bucket": "otp1-30060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203046438638:android:91ee15d225187b393b95ff",
+        "android_client_info": {
+          "package_name": "com.example.otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy-btLWSmA7M8tEkmlkk_BF5byPJ03lgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
